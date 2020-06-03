@@ -6,7 +6,7 @@
 # https://carpentries.github.io/workshop-template/customization/index.html
 
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
-# swc: Software Carpentry
+swc: Software Carpentry
 #  dc: Data Carpentry
 #  lc: Library Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
@@ -22,9 +22,9 @@ carpentry: "swc"
 # Possible values are:
 # dc-ecology: for Data Carpentry Ecology workshops
 # dc-genomics: for Data Carpentry Genomics
-# dc-socsci: for Data Carpentry Social Sciences
+dc-socsci: for Data Carpentry Social Sciences
 # dc-geospatial: for Data Carpentry Geospatial
-curriculum: "FIXME"
+curriculum: "R for Social Scientists"
 
 # If there is both an R and python official version of a curriculum, change the
 # value of the variable below ("flavor") to get the schedule updated accordingly
